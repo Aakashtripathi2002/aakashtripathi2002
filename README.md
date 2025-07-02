@@ -16,7 +16,7 @@
 - 🔭 Currently working at **Radical Global**  
 - 📍 Based in **Nagpur, India**  
 - 🌱 Learning: **Sequelize ORM**  
-- 💬 Ask me about: **MERN Stack, React Native, Node.js**  
+- 💬 Ask me about: **MERN Stack and Related technologies**  
 - ⚡ Fun fact: *I still Google my own code sometimes 😄*
 
 ---
