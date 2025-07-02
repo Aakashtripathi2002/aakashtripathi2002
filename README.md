@@ -4,10 +4,13 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Aakash Tripathi
 </h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=💫+Full+Stack+Developer+%7C+React+%7C+Node+%7C+MySQL;🚀+Building+Web+and+Mobile+Apps+with+Love!" alt="Typing SVG" />
-</h3>
 
+<h3 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FC00FF&center=true&vCenter=true&width=1000&lines=%F0%9F%92%AB+Full+Stack+Developer+%7C+React+%7C+Node+%7C+MySQL&lines=%F0%9F%9A%80+Building+Web+and+Mobile+Apps+with+Love!"
+    alt="Typing SVG"
+  />
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aakashtripathi2002&label=Profile%20Views&color=FC00FF&style=flat-square" alt="profile views" />
