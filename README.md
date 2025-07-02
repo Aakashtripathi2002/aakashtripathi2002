@@ -1,16 +1,16 @@
 <!-- ▬▬▬▬▬▬▬▬ WAVY HEADER ▬▬▬▬▬▬▬▬ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FF6AC1,6A5ACD&text=Aakash%20Tripathi&fontAlign=40&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20from%20India&descAlign=40&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=00DBDE,FC00FF&text=Aakash%20Tripathi&fontAlign=40&fontAlignY=35&fontColor=ffffff&fontSize=42&desc=Full%20Stack%20Developer%20from%20India&descAlign=40&descAlignY=55" />
 
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Aakash Tripathi
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=💫+Full+Stack+Developer+%7C+React+%7C+Node+%7C+MySQL;Building+web+%26+mobile+apps+with+love!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FC00FF&center=true&vCenter=true&width=750&lines=💫+Full+Stack+Developer+%7C+React+%7C+Node+%7C+MySQL;🚀+Building+Web+%26+Mobile+Apps+with+Love!" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakashtripathi2002&label=Profile%20Views&color=FF6AC1&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aakashtripathi2002&label=Profile%20Views&color=FC00FF&style=flat-square" alt="profile views" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 - 🔭 Currently working at **Radical Global**  
 - 📍 Based in **Nagpur, India**  
 - 🌱 Learning: **Sequelize ORM**  
-- 💬 Ask me about: **MERN Stack, React Native, Node.js**  
+- 💬 Ask me about: **MERN Stack and Related Technologies**  
 - ⚡ Fun fact: *I still Google my own code sometimes 😄*
 
 ---
@@ -109,4 +109,4 @@
 </p>
 
 <!-- ▬▬▬▬▬▬▬▬ WAVY FOOTER ▬▬▬▬▬▬▬▬ -->
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=140&color=FF6AC1,6A5ACD"/>
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=140&color=00DBDE,FC00FF"/>
