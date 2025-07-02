@@ -9,9 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=FC00FF&center=true&vCenter=true&width=1000&lines=%F0%9F%92%AB+Full+Stack+Developer+%7C+React+%7C+Node+%7C+MySQL&lines=%F0%9F%9A%80+Building+Web+and+Mobile+Apps+with+Love!" alt="Typing SVG" />
 </h3>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aakashtripathi2002&icon=0&color=6A5ACD" alt="Profile Views" />
-</p>
 
 ---
 
