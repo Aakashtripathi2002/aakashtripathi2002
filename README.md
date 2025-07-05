@@ -81,8 +81,10 @@
 
 ## ✍️ Dev Quote
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=horizontal&font=Fira+Code" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+
 
 
 ---
